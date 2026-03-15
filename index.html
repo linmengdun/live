@@ -1,0 +1,48 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="keywords" content=""><meta name="description" itemprop="description" content=""><title>home</title><script>(function () {
+            var docEl = document.documentElement;
+            var width, rem, resetTid;
+            var maxWidth = 750;
+            function initFontSize() {
+                width = document.documentElement.clientWidth || (document.body ? document.body.clientWidth : 0);
+                width = Math.min(width, maxWidth);
+                rem = width / 10;
+                docEl.style.fontSize = rem + 'px';
+            }
+            function repairFontSize() {
+                var testDiv = document.createElement('div');
+                var rect, scaleRatio;
+                testDiv.style.width = '10rem';
+                testDiv.style.position = 'absolute';
+                testDiv.style.left = '0';
+                testDiv.style.right = '0';
+                testDiv.style.visibility = 'hidden';
+                testDiv.style.zIndex = '10';
+                document.body.appendChild(testDiv);
+                rect = testDiv.getBoundingClientRect();
+                scaleRatio = rect.width / width;
+                if (scaleRatio !== 1) {
+                    docEl.style.fontSize = rem / scaleRatio + 'px';
+                }
+                document.body.removeChild(testDiv);
+            }
+            function reset(e) {
+                resetTid && clearTimeout(resetTid);
+                resetTid = setTimeout(function () {
+                    resetTid = null;
+                    initFontSize();
+                    repairFontSize();
+                    (e.type == 'load') && window.removeEventListener('load', reset);
+                }, e.type == 'load' ? 10 : 100);
+            }
+            function domReady() {
+                initFontSize();
+                repairFontSize();
+                document.removeEventListener('DOMContentLoaded', repairFontSize);
+            }
+
+            document.documentElement && initFontSize();
+            document.addEventListener('DOMContentLoaded', domReady);
+            window.addEventListener('load', reset);
+            window.addEventListener('resize', reset);
+            window.remReset = reset;
+        }());</script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script><link rel="icon" href="favicon.ico"><link href="css/index.978321febc.css" rel="stylesheet"></head><body><div id="app"></div><script defer="defer" src="js/manifest.3f5cab48c2.js" crossorigin="anonymous"></script><script defer="defer" src="js/vendor.778d3b6de6.js" crossorigin="anonymous"></script><script defer="defer" src="js/index.d504d4be17.js" crossorigin="anonymous"></script></body></html>
