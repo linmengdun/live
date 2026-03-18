@@ -1,0 +1,169 @@
+{
+  "departments": [
+    {
+      "id": "administration",
+      "label": "Administration"
+    },
+    {
+      "id": "operations",
+      "label": "Operations"
+    },
+    {
+      "id": "talent_scouting_bd",
+      "label": "Talent Scouting"
+    }
+  ],
+  "jobs": [
+    {
+      "title": "HR Specialist",
+      "department": "administration",
+      "about": "We are seeking a dynamic HR Specialist to join our fast-paced entertainment livestreaming company. You will not only manage traditional HR functions but also act as a strategic partner to our Operations Team, supporting the lifecycle of our staff, talent scouts, and live streamers.",
+      "responsibilities": [
+        "Talent Acquisition: Manage full-cycle recruitment for internal staff and assist the operations team with the onboarding of new live streamer trainees.",
+        "Onboarding & Training: Facilitate orientation programs and ensure all new hires (including live streamers) understand company policies and culture.",
+        "Performance Management: Support the execution of the monthly tiering assessments and staff performance reviews.",
+        "Employee Relations: Act as a point of contact for employee and talent grievances, maintaining a positive and highly motivated team culture.",
+        "Payroll & Compliance: Assist in calculating complex commission structures and ensure HR practices comply with local labor laws."
+      ],
+      "requirements": [
+        "Bachelor's degree in Human Resources, Business Administration, or a related field.",
+        "2+ years of HR experience; background in Media, Entertainment, or the Livestreaming/MCN industry is highly preferred.",
+        "Excellent communication and conflict-resolution skills.",
+        "Ability to thrive in a high-energy, fast-changing environment."
+      ]
+    },
+    {
+      "title": "Legal & Compliance Specialist",
+      "department": "administration",
+      "about": "We are looking for a detail-oriented Legal Specialist to safeguard our business interests. In the rapidly evolving livestreaming industry, you will play a critical role in drafting talent contracts, ensuring platform compliance, and protecting our intellectual property.",
+      "responsibilities": [
+        "Contract Management: Draft, review, and negotiate various agreements, including Exclusive Talent Agency Contracts, Trainee Agreements, and Vendor Contracts.",
+        "Platform Compliance: Monitor and interpret the terms of service and content guidelines of major livestreaming platforms (e.g., TikTok LIVE).",
+        "Dispute Resolution: Handle breach of contract issues (e.g., host poaching, early termination) and represent the company in negotiations or legal proceedings.",
+        "IP Protection: Ensure the company's livestreaming and short-video content do not infringe on third-party copyrights (music, imagery) and protect the company's own IP.",
+        "Risk Advisory: Provide strategic legal advice to the management team regarding business expansion and operational risks."
+      ],
+      "requirements": [
+        "Bachelor's degree in Law (LLB or JD equivalent); passing the local Bar Exam is a strong plus.",
+        "3+ years of experience in corporate law; experience in the entertainment, internet, or influencer marketing industry is highly desirable.",
+        "Strong knowledge of contract law and intellectual property rights.",
+        "Exceptional analytical and negotiation skills."
+      ]
+    },
+    {
+      "title": "Administrative Specialist / Studio Operations Admin",
+      "department": "administration",
+      "about": "We are seeking a proactive Administrative Specialist to keep our daily operations running smoothly. You will be the backbone of our physical workspace, ensuring our office and livestreaming studios are fully equipped, functional, and welcoming for our live streamers and staff.",
+      "responsibilities": [
+        "Facilities & Studio Management: Maintain the cleanliness and organization of the office and all livestreaming broadcast rooms.",
+        "Equipment Inventory: Track and manage expensive studio assets (cameras, microphones, lighting equipment, PCs, and props).",
+        "Procurement & Vendor Management: Order office supplies, snacks, and catering (including support for late-night streaming shifts), and manage relationships with cleaning and maintenance vendors.",
+        "Daily Support: Greet guests, candidates, and visiting streamers; handle incoming calls, mail, and deliveries.",
+        "Team Building: Assist in organizing company events, trainee graduation ceremonies, and team-building activities to boost morale."
+      ],
+      "requirements": [
+        "1-2 years of experience in administrative support or office management.",
+        "Tech-savvy with a basic understanding of audio/video equipment is a big plus.",
+        "Highly organized with strong multitasking abilities.",
+        "A \"can-do\" attitude and willingness to support a dynamic, non-traditional work schedule when necessary."
+      ]
+    },
+    {
+      "title": "Talent Scout / Casting Agent",
+      "department": "talent_scouting_bd",
+      "about": "We are looking for a highly connected and persuasive Talent Scout to identify and recruit the next generation of livestreaming stars. You will be the frontline of our talent pipeline, hunting for potential trainees who fit our specific live streamer profiles and bringing them into our professional bootcamp.",
+      "responsibilities": [
+        "Sourcing: Actively scout potential live streamers through social media (TikTok, Instagram, Facebook), local universities, modeling agencies, and offline entertainment venues.",
+        "Screening: Conduct initial outreach and interviews to assess candidates' appearance, camera presence, talent, and communication skills.",
+        "Conversion: Pitch the company's incubation program and successfully sign high-potential candidates to trainee contracts.",
+        "Networking: Build and maintain a strong network of freelance scouts, influencers, and talent agencies to ensure a steady stream of referrals."
+      ],
+      "requirements": [
+        "Proven experience in talent scouting, casting, HR recruiting, or nightlife/entertainment management.",
+        "A strong existing network of models, influencers, or performing arts students is a major plus.",
+        "Excellent negotiation and persuasion skills with a keen eye for \"star quality.\""
+      ]
+    },
+    {
+      "title": "Group Livestream MC",
+      "department": "operations",
+      "about": "The MC is the core driver of our group livestreaming. You will lead the group of live streamers on camera, control the pacing of the show, engage with viewers, and seamlessly transition between dance performances, interactive games, and PK battles to maximize revenue and viewer retention.",
+      "responsibilities": [
+        "Crowd Control: Lead the daily group livestream, maintaining high energy levels and a cohesive group dynamic throughout the shift.",
+        "Engagement & Monetization: Call out gifting scripts, acknowledge top gifters, and strategically drive PK battle revenues.",
+        "Pacing & Cues: Direct the other live streamers on when to dance, when to speak, and how to react, ensuring a smooth and entertaining broadcast.",
+        "Atmosphere Building: Manage the emotional arc of the livestream, handling trolls gracefully and keeping the audience highly engaged."
+      ],
+      "requirements": [
+        "1+ years of experience as a primary livestream host, radio/event MC, or broadcast presenter.",
+        "Exceptional verbal communication skills and extremely high EQ.",
+        "Ability to think on your feet, improvise, and maintain high energy for extended periods."
+      ]
+    },
+    {
+      "title": "Livestreaming Operations Assistant",
+      "department": "operations",
+      "about": "The Assistant operates behind the scenes during live shows, serving as the right hand to the MC and Operations Team. You will manage the technical flow of the stream, control the audio environment, and moderate the chat to ensure a flawless and exciting viewer experience.",
+      "responsibilities": [
+        "Audio & Effects: Manage the soundboard, BGM, and sound effects in real-time to match the mood of the livestream (e.g., hype music during PKs, transition music for dances).",
+        "Technical Support: Monitor the broadcast software (OBS/TikTok Live Studio), camera feeds, and lighting, troubleshooting any technical glitches instantly.",
+        "Chat Moderation: Actively monitor the live chat, pin important comments, answer basic viewer questions, and immediately ban trolls or inappropriate users.",
+        "Coordination: Assist the MC and streamers with props, water, and quick wardrobe adjustments off-camera."
+      ],
+      "requirements": [
+        "Tech-savvy with a basic understanding of livestreaming software, audio mixers, and studio setups.",
+        "Quick reaction time and ability to multitask under the pressure of a live broadcast environment.",
+        "Strong sense of rhythm and entertainment atmosphere."
+      ]
+    },
+    {
+      "title": "Dance Coach / Choreographer",
+      "department": "operations",
+      "about": "We are seeking a passionate Dance Instructor to train our newly recruited trainees and active group streamers. You will be responsible for transforming raw talent into coordinated, camera-ready performers within our intensive bootcamp program.",
+      "responsibilities": [
+        "Bootcamp Training: Teach basic to advanced dance routines (primarily K-Pop, Jazz, and trendy TikTok dances) to groups of trainees, including those with zero prior experience.",
+        "Choreography: Design and choreograph synchronized group dances and short, engaging solo routines tailored for vertical screen livestreaming.",
+        "Assessment: Evaluate trainees' progress, body coordination, and camera presence, providing scores for their tiering assessments.",
+        "Rehearsal Management: Lead daily warm-ups, physical conditioning, and routine rehearsals for official group streamers before they go live."
+      ],
+      "requirements": [
+        "Professional background in dance (K-Pop, Street Dance, Commercial Jazz).",
+        "Dance instructors with choreography skills are highly preferred.",
+        "Proven ability to teach and break down routines quickly and effectively.",
+        "Patience and strong motivational skills."
+      ]
+    },
+    {
+      "title": "Makeup Artist & Wardrobe Stylist",
+      "department": "operations",
+      "about": "The Makeup Artist & Stylist is responsible for the visual presentation of our streamers. You will design and execute makeup looks and outfit pairings that align with each host's specific \"persona\" and look flawless under intense, high-definition studio lighting.",
+      "responsibilities": [
+        "Live Studio Makeup: Apply professional, camera-ready makeup for streamers before daily broadcasts, understanding how HD lenses and ring lights affect color and contouring.",
+        "Persona Styling: Curate wardrobe selections, accessories, and hairstyles that match the designated aesthetic of the livestreaming group (e.g., sweet, edgy, glamorous).",
+        "On-Set Touch-ups: Provide quick makeup and hair touch-ups during breaks or between livestreaming sets.",
+        "Wardrobe Management: Maintain, organize, and source the company's inventory of costumes, uniforms, and props."
+      ],
+      "requirements": [
+        "Certified Makeup Artist with a strong portfolio showcasing camera/stage makeup.",
+        "Up-to-date with current fashion trends, especially on TikTok and Asian pop culture.",
+        "Fast worker who can handle multiple streamers within tight pre-show schedules."
+      ]
+    },
+    {
+      "title": "Videographer / Photographer",
+      "department": "operations",
+      "about": "We are looking for a creative Videographer/Photographer to produce high-quality visual content that drives traffic and builds the personal brands of our streamers. You will shoot everything from official headshots to viral short-form videos.",
+      "responsibilities": [
+        "Short-Form Content: Shoot and edit engaging, trendy short videos (for TikTok, Instagram Reels) to attract viewers to our livestreaming channels.",
+        "Portrait Photography: Conduct professional photoshoots for trainees and streamers to create comp cards, promotional posters, and profile pictures.",
+        "Studio Lighting Setup: Design and adjust professional lighting setups within the livestreaming rooms to ensure the streamers look their absolute best on camera.",
+        "Event Coverage: Document behind-the-scenes footage of the bootcamp, team-building events, and major livestreaming milestones."
+      ],
+      "requirements": [
+        "Proven experience in portrait photography and short-form video production (portfolio required).",
+        "Proficiency in editing software (Premiere Pro, Final Cut, CapCut, Lightroom, Photoshop).",
+        "Deep understanding of studio lighting, framing for vertical formats (9:16), and social media algorithms."
+      ]
+    }
+  ]
+}
