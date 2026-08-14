@@ -1,17 +1,17 @@
 {
   "_framework-BgSIrAUN.js": {
-    "file": "next/static/chunks/framework-BgSIrAUN.js",
+    "file": "live/mcn/next/static/chunks/framework-BgSIrAUN.js",
     "name": "framework",
     "imports": [
       "_rolldown-runtime-C60lm6uB.js"
     ]
   },
   "_rolldown-runtime-C60lm6uB.js": {
-    "file": "next/static/chunks/rolldown-runtime-C60lm6uB.js",
+    "file": "live/mcn/next/static/chunks/rolldown-runtime-C60lm6uB.js",
     "name": "rolldown-runtime"
   },
   "app/[section]/AnchorRecruitmentForm.tsx": {
-    "file": "next/static/chunks/AnchorRecruitmentForm-DUMdFK6B.js",
+    "file": "live/mcn/next/static/chunks/AnchorRecruitmentForm-DUMdFK6B.js",
     "name": "AnchorRecruitmentForm",
     "src": "app/[section]/AnchorRecruitmentForm.tsx",
     "isDynamicEntry": true,
@@ -21,7 +21,7 @@
     ]
   },
   "app/[section]/ArtistCollaborationCarousel.tsx": {
-    "file": "next/static/chunks/ArtistCollaborationCarousel-bC_KBWNL.js",
+    "file": "live/mcn/next/static/chunks/ArtistCollaborationCarousel-bC_KBWNL.js",
     "name": "ArtistCollaborationCarousel",
     "src": "app/[section]/ArtistCollaborationCarousel.tsx",
     "isDynamicEntry": true,
@@ -31,7 +31,7 @@
     ]
   },
   "app/[section]/CommerceCardDeck.tsx": {
-    "file": "next/static/chunks/CommerceCardDeck-DDoKoaMy.js",
+    "file": "live/mcn/next/static/chunks/CommerceCardDeck-DDoKoaMy.js",
     "name": "CommerceCardDeck",
     "src": "app/[section]/CommerceCardDeck.tsx",
     "isDynamicEntry": true,
@@ -41,7 +41,7 @@
     ]
   },
   "app/[section]/JobsBoard.tsx": {
-    "file": "next/static/chunks/JobsBoard-BN-Sb30C.js",
+    "file": "live/mcn/next/static/chunks/JobsBoard-BN-Sb30C.js",
     "name": "JobsBoard",
     "src": "app/[section]/JobsBoard.tsx",
     "isDynamicEntry": true,
@@ -51,7 +51,7 @@
     ]
   },
   "app/[section]/SectionFloatNav.tsx": {
-    "file": "next/static/chunks/SectionFloatNav-DjvQ3DTe.js",
+    "file": "live/mcn/next/static/chunks/SectionFloatNav-DjvQ3DTe.js",
     "name": "SectionFloatNav",
     "src": "app/[section]/SectionFloatNav.tsx",
     "isDynamicEntry": true,
@@ -61,7 +61,7 @@
     ]
   },
   "app/[section]/TalentCarousel.tsx": {
-    "file": "next/static/chunks/TalentCarousel-BV8-IMyy.js",
+    "file": "live/mcn/next/static/chunks/TalentCarousel-BV8-IMyy.js",
     "name": "TalentCarousel",
     "src": "app/[section]/TalentCarousel.tsx",
     "isDynamicEntry": true,
@@ -70,11 +70,11 @@
       "_framework-BgSIrAUN.js"
     ],
     "css": [
-      "next/static/css/TalentCarousel.DuI26O3Z.css"
+      "live/mcn/next/static/css/TalentCarousel.DuI26O3Z.css"
     ]
   },
   "app/page.tsx": {
-    "file": "next/static/chunks/page-Cl1I3qis.js",
+    "file": "live/mcn/next/static/chunks/page-Cl1I3qis.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
@@ -84,7 +84,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "next/static/chunks/layout-segment-context-BMuMqQcs.js",
+    "file": "live/mcn/next/static/chunks/layout-segment-context-Dlwb72Rv.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -95,7 +95,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "next/static/chunks/index-QJmTq7q6.js",
+    "file": "live/mcn/next/static/chunks/index-C4Vjra1n.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
