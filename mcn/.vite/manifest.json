@@ -1,0 +1,118 @@
+{
+  "_framework-BgSIrAUN.js": {
+    "file": "_next/static/chunks/framework-BgSIrAUN.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js"
+    ]
+  },
+  "_rolldown-runtime-C60lm6uB.js": {
+    "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+    "name": "rolldown-runtime"
+  },
+  "app/[section]/AnchorRecruitmentForm.tsx": {
+    "file": "_next/static/chunks/AnchorRecruitmentForm-DUMdFK6B.js",
+    "name": "AnchorRecruitmentForm",
+    "src": "app/[section]/AnchorRecruitmentForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/[section]/ArtistCollaborationCarousel.tsx": {
+    "file": "_next/static/chunks/ArtistCollaborationCarousel-bC_KBWNL.js",
+    "name": "ArtistCollaborationCarousel",
+    "src": "app/[section]/ArtistCollaborationCarousel.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/[section]/CommerceCardDeck.tsx": {
+    "file": "_next/static/chunks/CommerceCardDeck-DDoKoaMy.js",
+    "name": "CommerceCardDeck",
+    "src": "app/[section]/CommerceCardDeck.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/[section]/JobsBoard.tsx": {
+    "file": "_next/static/chunks/JobsBoard-BN-Sb30C.js",
+    "name": "JobsBoard",
+    "src": "app/[section]/JobsBoard.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/[section]/SectionFloatNav.tsx": {
+    "file": "_next/static/chunks/SectionFloatNav-DjvQ3DTe.js",
+    "name": "SectionFloatNav",
+    "src": "app/[section]/SectionFloatNav.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/[section]/TalentCarousel.tsx": {
+    "file": "_next/static/chunks/TalentCarousel-BV8-IMyy.js",
+    "name": "TalentCarousel",
+    "src": "app/[section]/TalentCarousel.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ],
+    "css": [
+      "_next/static/css/TalentCarousel.DuI26O3Z.css"
+    ]
+  },
+  "app/page.tsx": {
+    "file": "_next/static/chunks/page-Cl1I3qis.js",
+    "name": "page",
+    "src": "app/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "_next/static/chunks/layout-segment-context-C8YLTMU_.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "_next/static/chunks/index-CTlp0bmu.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ],
+    "dynamicImports": [
+      "app/[section]/ArtistCollaborationCarousel.tsx",
+      "virtual:vinext-app-browser-entry",
+      "node_modules/vinext/dist/shims/layout-segment-context.js",
+      "app/[section]/TalentCarousel.tsx",
+      "app/page.tsx",
+      "app/[section]/CommerceCardDeck.tsx",
+      "app/[section]/AnchorRecruitmentForm.tsx",
+      "app/[section]/JobsBoard.tsx",
+      "app/[section]/SectionFloatNav.tsx"
+    ]
+  }
+}
